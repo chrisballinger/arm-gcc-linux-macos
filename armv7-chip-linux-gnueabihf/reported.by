@@ -1,0 +1,3 @@
+reporter_name="Chris Ballinger <chris@ballinger.io>"
+reporter_url="https://ballinger.io"
+reporter_comment="crosstool-NG configuration for Next Thing CHIP Allwinner R8 (Debian Jessie). Adjust the settings as you need."
