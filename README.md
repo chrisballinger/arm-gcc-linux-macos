@@ -23,3 +23,8 @@ make -f ct-ng build
 [target.armv7-unknown-linux-gnueabihf]
 linker = "/Volumes/crosstool-ng/x-tools/armv7-chip-linux-gnueabihf/bin/armv7-chip-linux-gnueabihf-gcc"
 ```
+
+```
+$ rustup target install armv7-unknown-linux-gnueabihf
+$ cargo build --target armv7-unknown-linux-gnueabihf
+```
