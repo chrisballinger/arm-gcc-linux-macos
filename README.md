@@ -28,7 +28,7 @@ $ rustup target install arm-unknown-linux-gnueabi
 $ make -f ct-ng armv6-rpi-linux-gnueabi
 $ make -f ct-ng menuconfig
 $ make -f ct-ng build
-$ 
+```
 
 ### Rust
 
